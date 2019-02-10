@@ -1,0 +1,373 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"php",
+				"php"
+			],
+			[
+				"curre",
+				"currentPlaylist"
+			],
+			[
+				"cur",
+				"currentPlaylist"
+			],
+			[
+				"jso",
+				"jsonArray"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"song",
+				"songQuery"
+			],
+			[
+				"album",
+				"album"
+			],
+			[
+				"art",
+				"artworkPath"
+			],
+			[
+				"albu",
+				"album"
+			],
+			[
+				"artist",
+				"artistQuery"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"c",
+				"cover\tbackground-size"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"check",
+				"checkUsernameQuery"
+			],
+			[
+				"profi",
+				"profilePic"
+			],
+			[
+				"enc",
+				"encryptedPw"
+			],
+			[
+				"date_de",
+				"date_default_timezone_set"
+			],
+			[
+				"was",
+				"wasSuccessful"
+			],
+			[
+				"filter",
+				"filter_var"
+			],
+			[
+				"error",
+				"errorArray"
+			],
+			[
+				"pas",
+				"password2"
+			],
+			[
+				"em",
+				"email2"
+			],
+			[
+				"validate",
+				"validatePasswords"
+			],
+			[
+				"valid",
+				"validateUsername"
+			],
+			[
+				"sanit",
+				"sanitizeFormPassword"
+			],
+			[
+				"email",
+				"email2"
+			],
+			[
+				"sani",
+				"sanitizeFormString"
+			],
+			[
+				"input",
+				"inputText"
+			],
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"strip",
+				"strip_tags"
+			],
+			[
+				"login",
+				"loginButton"
+			],
+			[
+				"Mo",
+				"MovieName"
+			],
+			[
+				"Actor",
+				"ActorName"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 533,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/WebLooker/index.php",
+		"/C/xampp/htdocs/Smotify/includes/classes/Song.php",
+		"/C/xampp/htdocs/Smotify/includes/classes/Artist.php",
+		"/C/xampp/htdocs/Smotify/includes/classes/Album.php",
+		"/C/xampp/htdocs/Smotify/includes/handlers/ajax/getSongJson.php",
+		"/C/xampp/htdocs/Smotify/includes/nowPlayingBar.php",
+		"/C/xampp/htdocs/Smotify/assets/js/script.js",
+		"/C/xampp/htdocs/Smotify/assets/css/style.css",
+		"/C/Users/abrar/AppData/Local/Temp/Temp1_Slotify-songAjaxResult.zip/Slotify/includes/nowPlayingBar.php",
+		"/C/xampp/htdocs/Smotify/album.php",
+		"/C/xampp/htdocs/Smotify/includes/header.php",
+		"/C/Users/abrar/AppData/Local/Temp/Temp1_Slotify-songAjaxResult.zip/Slotify/assets/js/script.js",
+		"/C/Users/abrar/AppData/Local/Temp/Temp1_Slotify-songAjaxResult.zip/Slotify/includes/handlers/ajax/getSongJson.php",
+		"/C/xampp/htdocs/Smotify/index.php",
+		"/C/xampp/htdocs/Smotify/includes/navBarContainer.php",
+		"/C/xampp/htdocs/Smotify/includes/footer.php",
+		"/C/xampp/htdocs/Smotify/register.php",
+		"/C/Users/abrar/AppData/Local/Temp/Temp1_ImportOnlyTheSongs.zip/ImportOnlyTheSongs.sql",
+		"/C/xampp/htdocs/Smotify/assets/css/register.css",
+		"/C/xampp/htdocs/Smotify/includes/classes/Constants.php",
+		"/C/xampp/htdocs/Smotify/includes/handlers/register-handler.php",
+		"/C/xampp/htdocs/Smotify/includes/handlers/login-handler.php",
+		"/C/xampp/htdocs/Smotify/includes/classes/Account.php",
+		"/C/xampp/htdocs/Smotify/includes/config.php",
+		"/C/Users/abrar/College/CS 216/PA3/Matrix.cpp",
+		"/C/Users/abrar/College/CS 216/PA3/Graph.cpp",
+		"/C/Users/abrar/College/CS 216/SortingList.cpp",
+		"/C/Users/abrar/College/CS 216/PA3/makefile",
+		"/C/Users/abrar/College/CS 216/CS216PA1.cpp",
+		"/C/Users/abrar/College/CS 216/imdb.cpp",
+		"/C/Users/abrar/College/CS 216/PA3/main.cpp"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 533,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								515,
+								515
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 117.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
